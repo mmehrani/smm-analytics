@@ -26,7 +26,7 @@ if __name__ == '__main__':
     """
 
     # download our example dataset and place it under the same directory of this script
-    df = pd.read_csv('example_dataset.csv')
+    df = pd.read_csv('example_dataset_en.csv')
 
     # add your parameters needed by the analysis
     # for example:
